@@ -1,5 +1,18 @@
 # <i>Web3 Project Overview</i>
 
+<h3><u><strong><i>BloodLoop</i></strong></u> &nbsp;(NFT Staking on Avalanche)</h3>
+<hr />
+
+<img align="right" width="300px" src="https://github.com/infinite0731/Web3-Project-Overview/assets/18752970/c6eb454a-c290-4595-b79b-a633891e08c7">
+
+BloodLoop is the first gaming product of 7 Digital Labs, a Gaming Studio focused on producing gaming solutions that bridge the web2 and web3 worlds through the adoption of a gameplay-centric system and the streamlining of onboarding barriers.
+
+- Link
+  - Website: <a href="https://www.bloodloop.com/">Landing Page</a>
+  - DApp: <a href="https://app.bloodloop.com/">NFT Staking</a>
+
+<br/>
+
 <h3><u><strong><i>360 Ecosystem</i></strong></u> &nbsp;(DeFi)</h3>
 <hr />
 
