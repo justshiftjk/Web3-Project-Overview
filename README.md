@@ -174,14 +174,14 @@ This is a BRC-20 Token airdrop project which Bitmap Ordinal NFT holders can clai
 
 <br/>
 
-<h3><u><strong><i>Bitcoin Bees</i></strong></u> &nbsp;(Bitcoin Ordinals)</h3>
+<h3><u><strong><i>Munch Swap</i></strong></u> &nbsp;(Ordinals Swap Platform)</h3>
 <hr />
 
-<img align="right" width="300px" src="https://github.com/Infinite-Charisma/Web3-Project-Overview/assets/113470939/d2d42f6c-06cc-4e21-9081-888453e9599f">
+<img align="right" width="300px" src="https://github.com/infinite0731/Web3-Project-Overview/assets/18752970/ef1edbdf-a428-48d4-9945-38a8c048b76f">
 
-This is BRC-20 token airdrop project. Users can claim $BMP BRC-20 token if they have Bitmap ordinal NFTs in their wallet.
+Munchswap is a Bitcoin Ordinal NFT swap platform like SharkyFi on Solana blockchain. Users can swap their ordinal NFTs with other ones inside the platform.
 
-- Link: <a href="https://bitcoinbees.io">Website</a>
+- Link: <a href="https://munchswap.xyz/">Website</a>
 
 <br/>
 
