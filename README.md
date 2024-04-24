@@ -26,6 +26,19 @@ BloodLoop is the first gaming product of 7 Digital Labs, a Gaming Studio focused
 
 <br/>
 
+<h3><u><strong><i>Lucia Protocol</i></strong></u> &nbsp;(DeFi - Lending & Borrowing)</h3>
+<hr />
+
+<img align="right" width="300px" src="https://github.com/infinite0731/Web3-Project-Overview/assets/18752970/67b9bc25-d289-4aab-a770-6a1dba27b9f0">
+
+Lucia is a non custodial lending and borrowing protocol that aims to grant individuals and startups access to credit through a foundation of trust. 
+
+- Link
+  - Website: <a href="https://www.luciaprotocol.com/">Landing Page</a>
+  - DApp: <a href="https://luciaprotocol.web.app/">App</a>
+
+<br/>
+
 <h3><u><strong><i>EnderProtocol</i></strong></u> &nbsp;(DeFi)</h3>
 <hr />
 
@@ -180,5 +193,16 @@ This is BRC-20 token airdrop project. Users can claim $BMP BRC-20 token if they 
 This is a crypto betting game site which players can enjoy several betting games with multiple coins like BTC, ETH, Tron, USDT, and USDC etc. There are many intersting games like Scissors, Dice, Crash, Mines, Roulette in this project.
 
 - Link: <a href="https://playzelo.xyz/">Website</a>
+
+<br/>
+
+<h3><u><strong><i>Mechagotchis</i></strong></u> &nbsp;(P2E Multiplayer Game)</h3>
+<hr />
+
+<img align="right" width="300px" src="https://github.com/infinite0731/Web3-Project-Overview/assets/18752970/96303f7a-fff7-421a-84fe-04a2a90b3f15">
+
+Mechagotchis is a Multi-player RPG game which players can enjoy exploring Mechagothis world and fighting each other. We launched the alpha version for now and plan to integrate several features like cooperation mode, AI enemy combatants and Mech customization with Crypto payment etc.
+
+-  Link: <a href="https://mechagotchi.com//">Web Game</a>
 
 <br/>
