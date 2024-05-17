@@ -87,19 +87,6 @@ Dworfz is a NFT raiding platform built based on Solana network. Users can apply 
 
 <br/>
 
-<h3><u><strong><i>Solarmy</i></strong></u> &nbsp;(P2E game on Solana)</h3>
-<hr />
-
-<img align="right" width="300px" src="https://github.com/Infinite-Charisma/Web3-Project-Overview/assets/113470939/ebef61da-5b98-45ed-aae0-af771cfc5bd4">
-
-Solarmy is a limited battalion of 2D & 3D NFT soliders-unique digital collectibles living on the Solana blockchain. Soldiers doubles as your Solarmy membership and grants access to Soldier-only benefits.
-
-- Link
-  - Website: <a href="https://solarmy.io/">Homepage</a>
-  - App: <a href="https://game.solarmy.io/">Game</a>
-
-<br/>
-
 <h3><u><strong><i>Galactic Kingdom</i></strong></u> &nbsp;(P2E Game on Solana)</h3>
 
 <hr />
@@ -109,6 +96,18 @@ Solarmy is a limited battalion of 2D & 3D NFT soliders-unique digital collectibl
 Galactic Kingdom is a Web 3 intergalactic empire-building strategy mobile game that brings players to fight each other in high-stakes thrilling battles in the pursuit of great hidden treasures.
 
 - Link: <a href="https://galactickingdom.io//">Landing Page</a>
+
+<br/>
+
+<h3><u><strong><i>Space Falcon</i></strong></u> &nbsp;(P2E Game on Solana)</h3>
+
+<hr />
+
+<img align="right" width="300px" src="https://github.com/infinite0731/Web3-Project-Overview/assets/18752970/194b9fd3-0cfe-4f2d-ae51-050b8f5e4897">
+
+Space Falcon is a gaming studio & tech startup scaling the Web3 gaming experience and revolutionizing virtual adventures with GameFi initiatives. We created $FCON token and Sol staking platform there and enabled users to stake their tokens to get reward
+
+- Link: <a href="https://spacefalcon.com/">Website</a>
 
 <br/>
 
