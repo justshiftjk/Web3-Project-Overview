@@ -87,7 +87,7 @@ Dworfz is a NFT raiding platform built based on Solana network. Users can apply 
 
 <br/>
 
-<h3><u><strong><i>Galactic Kingdom</i></strong></u> &nbsp;(P2E Game on Solana)</h3>
+<h3><u><strong><i>Galactic Kingdom</i></strong></u> &nbsp;(P2E Game on Bitcoin)</h3>
 
 <hr />
 
