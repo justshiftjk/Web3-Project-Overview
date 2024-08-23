@@ -3,7 +3,7 @@
 <h3><u><strong><i>BloodLoop</i></strong></u> &nbsp;(NFT Staking on Avalanche)</h3>
 <hr />
 
-<img align="right" width="300px" src="https://github.com/infinite0731/Web3-Project-Overview/assets/18752970/c6eb454a-c290-4595-b79b-a633891e08c7">
+<img align="right" width="300px" src="https://github.com/user-attachments/assets/20f9c3e5-1fcd-42ad-96bf-687a68cfc881">
 
 BloodLoop is the first gaming product of 7 Digital Labs, a Gaming Studio focused on producing gaming solutions that bridge the web2 and web3 worlds through the adoption of a gameplay-centric system and the streamlining of onboarding barriers.
 
