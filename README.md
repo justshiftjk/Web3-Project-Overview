@@ -57,7 +57,7 @@ Ender Protocol is a new DeFi primitive focused on realizing the full potential o
 
 <img align="right" width="300px" src="https://github.com/Infinite-Charisma/Web3-Project-Overview/assets/113470939/07a9ff56-4f96-4198-99f1-0670712d0579">
 
-The DEX platform offers a decentralized and secure way to trade cryptocurrencies while providing users with a range of features that enhance their trading experience. Users enables to swap their tokens on Bitcoin, Ethereum and Monero blockchain. They can also do real time chat during swap
+The DEX platform offers a decentralized and secure way to trade cryptocurrencies while providing users with a range of features that enhance their trading experience. Users enables to swap their tokens on Bitcoin, Ethereum and Monero blockchain. They can also do real time chat during swap.
 
 - Link: <a href="https://justshift.io">JustShift</a>
 
@@ -105,7 +105,7 @@ Galactic Kingdom is a Web 3 intergalactic empire-building strategy mobile game t
 
 <img align="right" width="300px" src="https://github.com/infinite0731/Web3-Project-Overview/assets/18752970/194b9fd3-0cfe-4f2d-ae51-050b8f5e4897">
 
-Space Falcon is a gaming studio & tech startup scaling the Web3 gaming experience and revolutionizing virtual adventures with GameFi initiatives. We created $FCON token and Sol staking platform there and enabled users to stake their tokens to get reward
+Space Falcon is a gaming studio & tech startup scaling the Web3 gaming experience and revolutionizing virtual adventures with GameFi initiatives. We created $FCON token and Sol staking platform there and enabled users to stake their tokens to get reward.
 
 - Link: <a href="https://spacefalcon.com/">Website</a>
 
